@@ -1,1 +1,2 @@
-# class-80
+# book-santa-stage-2
+Stage - 2
